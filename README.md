@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm sandyzikun</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate  developer from China</h3>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sandyzikun&show_icons=true&theme=solarized-light)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
